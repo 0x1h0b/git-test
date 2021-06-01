@@ -1,0 +1,10 @@
+
+This List problems i need to view tutorials , think more :
+
+
+- Rotate Array (In-Place)
+- Longest Non-decreasing subsequence   O(log(n)) time
+- Max sum path in 2 arrays 
+
+
+
