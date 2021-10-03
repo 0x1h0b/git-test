@@ -16,6 +16,18 @@ int helper(int v,vector<int> &p){
 }
 
 int main(){
+  
+  ios_base::sync_with_stdio(false);// turns off buffer synchronization between the cin stream and C-style stdio tools
+  //(like scanf or gets) — so cin works faster
+  
+  
+  
+  cin.tie(NULL);
+  //by default the cout buffer flushes each time when you read something from cin. 
+  //And that may be slow when you repeatedly read something small then write something small many times.
+  //So the line turns off this synchronization (by literally tying cin to null instead of cout).
+  
+  
    int V, E;
    cin >> V >> E;
     edges a[E];
