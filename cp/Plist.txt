@@ -5,6 +5,8 @@ This List problems i need to view tutorials , think more :
 - Rotate Array (In-Place)
 - Longest Non-decreasing subsequence   O(log(n)) time
 - Max sum path in 2 arrays 
-
+- 
+ have to find Nth natural number after removing all the numbers containing digit 9 O(logn) 
+ https://practice.geeksforgeeks.org/problems/nth-natural-number/1/?track=MD-Math&batchId=144
 
 
